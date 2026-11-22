@@ -1,7 +1,7 @@
 {
-  "version": "3.2.33",
-  "versionCode": 59,
-  "apkUrl": "https://github.com/csprofesor/gslauncher-releases/releases/download/v3.2.33/app-release.apk",
+  "version": "3.2.34",
+  "versionCode": 60,
+  "apkUrl": "https://github.com/csprofesor/gslauncher-releases/releases/download/v3.2.34/app-release.apk",
   "shortUrl": "https://tinyurl.com/2xobdf9j",
-  "changelog": "v3.2.33 (Build 59): 1) Uygulama simgelerini sağa/sola taşıma ve kalıcı sıra kaydetme UX iyileştirmesi. 2) Retro oyun ekranı taşma düzeltmeleri ve ikon doluluk normalizasyonu. 3) Güvenlik ve mimari temizlik: jks ve düz metin şifreler repodan arındırıldı. 4) Kesintisiz açık dağıtım mimarisi (kaynak kodlar %100 gizli, TV güncellemeleri kesintisiz)."
+  "changelog": "v3.2.34 (Build 60): 1) Uygulama kartlarındaki sarı yıldız ikonu kaldırıldı. 2) IMDb vitrini ve detay açıklamaları ile film türleri Türkçe yapıldı. 3) Uygulamayı ana ekrandan gizleme/kaldırma butonu eklendi. 4) IMDb film seçildiğinde Stremio, Cloudstream, YouTube ve tüm medya uygulamalarında arama intentleri ve pano kopyalama optimize edildi. 5) Retro oyunlardaki kumanda gecikmesi (input lag) sıfırlandı. 6) Kaldığın Yerden Devam Et rafındaki açılmamış/sahte TV kanalı içerikleri temizlendi. 7) Sürüm karşılaştırma hatası düzeltildi (aynı sürüme güncelle uyarısı kaldırıldı)."
 }
