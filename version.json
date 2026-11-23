@@ -1,7 +1,7 @@
 {
-  "version": "3.2.35",
-  "versionCode": 61,
-  "apkUrl": "https://github.com/csprofesor/gslauncher-releases/releases/download/v3.2.35/app-release.apk",
+  "version": "3.2.36",
+  "versionCode": 62,
+  "apkUrl": "https://github.com/csprofesor/gslauncher-releases/releases/download/v3.2.36/app-release.apk",
   "shortUrl": "https://tinyurl.com/2794woql",
-  "changelog": "v3.2.35 (Build 61): 1) Sabit Başlatıcı (Persistent Default Launcher) onarıldı: AndroidManifest erişilebilirlik servisi ve yerel ADB tek tıkla yetkilendirme altyapısı aktifleştirildi. 2) Widget Düzenleyici kaydırma tuhaflığı giderildi: Genişletilmiş modal görünümü ve her satır/kart odaklandığında otomatik ortalanan akıllı kaydırma entegre edildi."
+  "changelog": "v3.2.36 (Build 62): 1) Dijital Platform Vitrini: Netflix, Disney+, Prime Video, BluTV ve TOD içerikleri eklendi. 2) Tek Tıkla Doğrudan İzleme: İlgili platform TV'de kuruluysa doğrudan açılır; değilse Play Store ve alternatif oynatıcı seçenekleri sunulur. 3) Kaldığın Yerden Devam Et Rafı: Test butonları kaldırıldı, yalnızca kullanıcının gerçek izlemelerini gösteren sade ve şık tasarıma kavuşturuldu."
 }
