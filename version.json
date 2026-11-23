@@ -1,7 +1,7 @@
 {
-  "version": "3.2.43",
-  "versionCode": 69,
-  "apkUrl": "https://github.com/csprofesor/gslauncher-releases/releases/download/v3.2.43/app-release.apk",
+  "version": "3.2.44",
+  "versionCode": 70,
+  "apkUrl": "https://github.com/csprofesor/gslauncher-releases/releases/download/v3.2.44/app-release.apk",
   "shortUrl": "https://tinyurl.com/2794woql",
-  "changelog": "v3.2.43 (Build 69): 1) Canlı Radyo Widget'ı Aktif Edildi: Yerleşik Android MediaPlayer motoru modüle entegre edildi; Kral Pop, Power Pop, Power Türk, Kral FM, Radyo Turkuvaz ve Joy Türk kesintisiz canlı HLS akışları bağlandı. 2) Canlı Skor & Maç Widget'ı Aktif Edildi: Süper Lig, Şampiyonlar Ligi ve Avrupa Ligi canlı skorları ve maç dakikaları otomatik olarak ESPN API üzerinden çekilerek canlı maçlar en başa alınır. 3) Tek Tıkla Canlı Yayın / Özet: Maç kartına kumandadan tıklandığında YouTube / spor uygulaması üzerinden canlı anlatım ve maç özetleri anında başlatılır."
+  "changelog": "v3.2.44 (Build 70): 1) Ayarlanabilir Ekran Koruyucu Slayt Hızı: Ekran koruyucuda fotoğrafların geçiş süresi kullanıcının isteğine göre 10 sn, 15 sn, 30 sn, 1 dk, 2 dk, 5 dk, 10 dk seçenekleriyle özelleştirilebilir hale getirildi. 2) Ayarlar & Galeri Entegrasyonu: Hem Kontrol Merkezi Düzen sekmesine hem de Telefondan Fotoğraf Yükle galerisine hızlı süre seçici butonları eklendi. 3) Kalıcı Hafıza: Seçilen slayt süresi sistem ayarlarında saklanır ve yeniden başlatmalarda korunur."
 }
