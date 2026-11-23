@@ -1,0 +1,7 @@
+{
+  "version": "3.2.39",
+  "versionCode": 65,
+  "apkUrl": "https://github.com/csprofesor/gslauncher-releases/releases/download/v3.2.39/app-release.apk",
+  "shortUrl": "https://tinyurl.com/2794woql",
+  "changelog": "v3.2.39 (Build 65): 1) Aile Albümü Tekil Silme: TV albümündeki fotoğraflar artık tek tek silinebilir. 2) Ekran Koruyucu Temizliği: Kalp ve aile albümü etiketi kaldırıldı. 3) Arayüz Sadeleştirme: Ana ekrandaki 'Uygulamalarım' yazısı ve alt kumanda yardım bandı kaldırıldı. 4) Çerçeve Taşma Düzeltmesi: Tüm uygulamalar, sinema dizi ve kategori kartlarının çerçeve taşmaları giderildi. 5) Nötr Platin Tema: Varsayılan launcher rengi nötr gümüş platin yapıldı. 6) TV Güncellemeleri: TV'nin doğrudan güncelleme alabilmesi sağlandı."
+}
