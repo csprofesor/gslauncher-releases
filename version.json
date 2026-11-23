@@ -1,7 +1,7 @@
 {
-  "version": "3.2.34",
-  "versionCode": 60,
-  "apkUrl": "https://github.com/csprofesor/gslauncher-releases/releases/download/v3.2.34/app-release.apk",
+  "version": "3.2.35",
+  "versionCode": 61,
+  "apkUrl": "https://github.com/csprofesor/gslauncher-releases/releases/download/v3.2.35/app-release.apk",
   "shortUrl": "https://tinyurl.com/2794woql",
-  "changelog": "v3.2.34 (Build 60): 1) Uygulama kartlarındaki sarı yıldız ikonu kaldırıldı. 2) IMDb vitrini ve detay açıklamaları ile film türleri Türkçe yapıldı. 3) Uygulamayı ana ekrandan gizleme/kaldırma butonu eklendi. 4) IMDb film seçildiğinde Stremio, Cloudstream, YouTube ve tüm medya uygulamalarında arama intentleri ve pano kopyalama optimize edildi. 5) Retro oyunlardaki kumanda gecikmesi (input lag) sıfırlandı. 6) Kaldığın Yerden Devam Et rafındaki açılmamış/sahte TV kanalı içerikleri temizlendi. 7) Sürüm karşılaştırma hatası düzeltildi (aynı sürüme güncelle uyarısı kaldırıldı)."
+  "changelog": "v3.2.35 (Build 61): 1) Sabit Başlatıcı (Persistent Default Launcher) onarıldı: AndroidManifest erişilebilirlik servisi ve yerel ADB tek tıkla yetkilendirme altyapısı aktifleştirildi. 2) Widget Düzenleyici kaydırma tuhaflığı giderildi: Genişletilmiş modal görünümü ve her satır/kart odaklandığında otomatik ortalanan akıllı kaydırma entegre edildi."
 }
