@@ -1,7 +1,7 @@
 {
-  "version": "3.2.41",
-  "versionCode": 67,
-  "apkUrl": "https://github.com/csprofesor/gslauncher-releases/releases/download/v3.2.41/app-release.apk",
+  "version": "3.2.42",
+  "versionCode": 68,
+  "apkUrl": "https://github.com/csprofesor/gslauncher-releases/releases/download/v3.2.42/app-release.apk",
   "shortUrl": "https://tinyurl.com/2794woql",
-  "changelog": "v3.2.41 (Build 67): 1) Ana Ekran Dikey Aralık & Boşluk Optimizasyonu: Kategoriler, uygulamalar rafı ve vitrin arasındaki gereksiz boşluklar daraltıldı; ekran alanı verimli hale getirildi. 2) Retro Oyun Kumanda Odak Kilidi & Sıfır Gecikme: Oyun oynanırken kumandanın 'Oyundan Çık', 'Canlı Sıralama' butonlarına kaçması engellendi; her oyuna doğrudan 0ms gecikmeli kumanda dinleyicisi eklendi. 3) Çerçeve ve Taşma Düzeltmeleri: Odaklanma ölçeği 1.025 olarak optimize edilerek kenar taşmaları ve kırpılmalar giderildi. 4) İlk Yüklemede Retro Oyunlar Gizli: Retro oyunlar varsayılan düzende gizlendi, isteyen kullanıcı widget yöneticisinden ekleyebilir. 5) Harici Uygulamalardan Kaldığın Yerden Devam Et: Netflix, Stremio, VLC vb. harici oynatıcılardan açılıp durdurulan filmler anında en başa alınır."
+  "changelog": "v3.2.42 (Build 68): 1) Harici Oynatıcılardan Kaldığın Yerden Devam Et Kök Düzeltmesi: Android TV TvProvider/WatchNext SharedPreferences ClassCastException çökmesi giderildi; native sorgu baştan sona try-catch korumasına alındı. 2) Otomatik TV Listeleri İzni: Açılışta TV listeleme/EPG izni yoksa otomatik runtime izin diyaloğu tetiklenir. 3) Gerçek Zamanlı Senkronizasyon: Netflix, Stremio, VLC, Kodi, SmartTube vb. oynatıcıların durdurulan tüm içerikleri anında en başa eklenir; aşırı katı başlık filtrelemesi düzeltildi. 4) İzleme bitince (%90+) hem sistemden hem de launcher rafından anında otomatik temizlenir."
 }
