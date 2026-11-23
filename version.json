@@ -1,7 +1,7 @@
 {
-  "version": "3.2.36",
-  "versionCode": 62,
-  "apkUrl": "https://github.com/csprofesor/gslauncher-releases/releases/download/v3.2.36/app-release.apk",
+  "version": "3.2.37",
+  "versionCode": 63,
+  "apkUrl": "https://github.com/csprofesor/gslauncher-releases/releases/download/v3.2.37/app-release.apk",
   "shortUrl": "https://tinyurl.com/2794woql",
-  "changelog": "v3.2.36 (Build 62): 1) Dijital Platform Vitrini: Netflix, Disney+, Prime Video, BluTV ve TOD içerikleri eklendi. 2) Tek Tıkla Doğrudan İzleme: İlgili platform TV'de kuruluysa doğrudan açılır; değilse Play Store ve alternatif oynatıcı seçenekleri sunulur. 3) Kaldığın Yerden Devam Et Rafı: Test butonları kaldırıldı, yalnızca kullanıcının gerçek izlemelerini gösteren sade ve şık tasarıma kavuşturuldu."
+  "changelog": "v3.2.37 (Build 63): 1) 4K Dinamik Ekran Koruyucu: 15+ zengin 4K görselle otomatik rotasyon; aile fotoğrafı uyarısı kaldırıldı. 2) Wi-Fi Ağ Arama & TV Ağ Ayarları: Android TV konum kısıtı düzeltildi, tek tıkla sistem Wi-Fi menüsünü açma eklendi. 3) Duvar Kağıdı Galerisi: GS RAMS Park, 4K Nebula, Cyberpunk Şehir kartları eklendi. 4) Anlaşılır & Etiketli Üst Bar: [Wi-Fi], [Hız], [Bildirim], [Güncelle], [Düzen], [Ayarlar] hap butonları. 5) Canlı TV Kaldırıldı: Çalışmayan uydu/TV kısayolu temizlendi. 6) Vitrin %100 Türkçe: Film/dizi konuları akıcı Türkçe özetlerle sunuldu. 7) Odak Çerçevesi Düzeltmesi: Uygulama kartlarının odak çerçeve taşması giderildi. 8) Widget Düzenleyici Odak Sabitleme: Bölüm taşırken odağın kaçması engellendi."
 }
