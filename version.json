@@ -1,7 +1,7 @@
 {
-  "version": "3.2.42",
-  "versionCode": 68,
-  "apkUrl": "https://github.com/csprofesor/gslauncher-releases/releases/download/v3.2.42/app-release.apk",
+  "version": "3.2.43",
+  "versionCode": 69,
+  "apkUrl": "https://github.com/csprofesor/gslauncher-releases/releases/download/v3.2.43/app-release.apk",
   "shortUrl": "https://tinyurl.com/2794woql",
-  "changelog": "v3.2.42 (Build 68): 1) Harici Oynatıcılardan Kaldığın Yerden Devam Et Kök Düzeltmesi: Android TV TvProvider/WatchNext SharedPreferences ClassCastException çökmesi giderildi; native sorgu baştan sona try-catch korumasına alındı. 2) Otomatik TV Listeleri İzni: Açılışta TV listeleme/EPG izni yoksa otomatik runtime izin diyaloğu tetiklenir. 3) Gerçek Zamanlı Senkronizasyon: Netflix, Stremio, VLC, Kodi, SmartTube vb. oynatıcıların durdurulan tüm içerikleri anında en başa eklenir; aşırı katı başlık filtrelemesi düzeltildi. 4) İzleme bitince (%90+) hem sistemden hem de launcher rafından anında otomatik temizlenir."
+  "changelog": "v3.2.43 (Build 69): 1) Canlı Radyo Widget'ı Aktif Edildi: Yerleşik Android MediaPlayer motoru modüle entegre edildi; Kral Pop, Power Pop, Power Türk, Kral FM, Radyo Turkuvaz ve Joy Türk kesintisiz canlı HLS akışları bağlandı. 2) Canlı Skor & Maç Widget'ı Aktif Edildi: Süper Lig, Şampiyonlar Ligi ve Avrupa Ligi canlı skorları ve maç dakikaları otomatik olarak ESPN API üzerinden çekilerek canlı maçlar en başa alınır. 3) Tek Tıkla Canlı Yayın / Özet: Maç kartına kumandadan tıklandığında YouTube / spor uygulaması üzerinden canlı anlatım ve maç özetleri anında başlatılır."
 }
