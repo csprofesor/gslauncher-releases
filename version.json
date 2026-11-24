@@ -1,7 +1,7 @@
 {
-  "version": "3.2.44",
-  "versionCode": 70,
-  "apkUrl": "https://github.com/csprofesor/gslauncher-releases/releases/download/v3.2.44/app-release.apk",
+  "version": "3.2.45",
+  "versionCode": 71,
+  "apkUrl": "https://github.com/csprofesor/gslauncher-releases/releases/download/v3.2.45/app-release.apk",
   "shortUrl": "https://tinyurl.com/2794woql",
-  "changelog": "v3.2.44 (Build 70): 1) Ayarlanabilir Ekran Koruyucu Slayt Hızı: Ekran koruyucuda fotoğrafların geçiş süresi kullanıcının isteğine göre 10 sn, 15 sn, 30 sn, 1 dk, 2 dk, 5 dk, 10 dk seçenekleriyle özelleştirilebilir hale getirildi. 2) Ayarlar & Galeri Entegrasyonu: Hem Kontrol Merkezi Düzen sekmesine hem de Telefondan Fotoğraf Yükle galerisine hızlı süre seçici butonları eklendi. 3) Kalıcı Hafıza: Seçilen slayt süresi sistem ayarlarında saklanır ve yeniden başlatmalarda korunur."
+  "changelog": "v3.2.45 (Build 71): 1) Widget İç Temaları: Buzlu Cam (Glass), Neon Parlama, Saf Siyah AMOLED, Platin Metalik ve Launcher Teması seçenekleri eklendi. 2) Canlı Radyo & Maç Önceki/Sonraki Butonları: Hem radyo hem maç skorlarına 'Önceki' ve 'Sonraki' butonları eklendi. 3) Kapsül & Kare Widget Boyutları: Radyo ve maç widget'ları kare ve kapsül modlarına tam uyumlu hale getirildi. 4) Yan Yana (Pair) Kare Widget Desteği: Ana ekranda art arda gelen kare widget'lar (ör. Canlı Radyo ve Maç) artık otomatik olarak yan yana tek satırda hizalanıyor. 5) 12 Saatte Bir Günün Repliği: Film ve dizi replik havuzu genişletildi ve 12 saatte bir otomatik değişecek şekilde ayarlandı. 6) Düzen Sekmesinde Akordeon Renk Kartelası: Kişisel Tema Stüdyosu açılır-kapanır akordeon yapılarak yer tasarrufu sağlandı."
 }
